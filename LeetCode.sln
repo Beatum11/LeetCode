@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PalindromeNumber", "PalindromeNumber\09.PalindromeNumber.csproj", "{0C042504-A53A-46EA-B312-86355D9DB59B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2235.AddTwoIntegers", "2235.AddTwoIntegers\2235.AddTwoIntegers.csproj", "{80A8A522-28A2-40E7-AE25-65C242090912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480.RunningSumOf1dArray", "1480.RunningSumOf1dArray\1480.RunningSumOf1dArray.csproj", "{32FEDB4C-EA94-450F-B3BE-9FBE827B27A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0C042504-A53A-46EA-B312-86355D9DB59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C042504-A53A-46EA-B312-86355D9DB59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C042504-A53A-46EA-B312-86355D9DB59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A8A522-28A2-40E7-AE25-65C242090912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A8A522-28A2-40E7-AE25-65C242090912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A8A522-28A2-40E7-AE25-65C242090912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A8A522-28A2-40E7-AE25-65C242090912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FEDB4C-EA94-450F-B3BE-9FBE827B27A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FEDB4C-EA94-450F-B3BE-9FBE827B27A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FEDB4C-EA94-450F-B3BE-9FBE827B27A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FEDB4C-EA94-450F-B3BE-9FBE827B27A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
