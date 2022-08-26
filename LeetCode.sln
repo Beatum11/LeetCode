@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2235.AddTwoIntegers", "2235
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1480.RunningSumOf1dArray", "1480.RunningSumOf1dArray\1480.RunningSumOf1dArray.csproj", "{32FEDB4C-EA94-450F-B3BE-9FBE827B27A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1108.DefangingAnIPAddress", "1108.DefangingAnIPAddress\1108.DefangingAnIPAddress.csproj", "{562F848B-972F-4E96-84DD-C377EE41DF05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1108.DefangingAnIPAddress", "1108.DefangingAnIPAddress\1108.DefangingAnIPAddress.csproj", "{562F848B-972F-4E96-84DD-C377EE41DF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2011.FinalValueOfVariableAfterPerformingOperations", "2011.FinalValueOfVariableAfterPerformingOperations\2011.FinalValueOfVariableAfterPerformingOperations.csproj", "{54352E95-30A9-4A07-BCD6-0EC14FD94428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "771.JewelsAndStones", "771.JewelsAndStones\771.JewelsAndStones.csproj", "{CE0A5876-62AC-409C-84CF-386A79065634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{562F848B-972F-4E96-84DD-C377EE41DF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{562F848B-972F-4E96-84DD-C377EE41DF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{562F848B-972F-4E96-84DD-C377EE41DF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54352E95-30A9-4A07-BCD6-0EC14FD94428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54352E95-30A9-4A07-BCD6-0EC14FD94428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54352E95-30A9-4A07-BCD6-0EC14FD94428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54352E95-30A9-4A07-BCD6-0EC14FD94428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0A5876-62AC-409C-84CF-386A79065634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0A5876-62AC-409C-84CF-386A79065634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0A5876-62AC-409C-84CF-386A79065634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0A5876-62AC-409C-84CF-386A79065634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
