@@ -4,6 +4,7 @@ _______________________________
 
 - [1108. Defanging An IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [1480. Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [1967. Number Of Strings That Appear As Substrings In Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [2011. Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
