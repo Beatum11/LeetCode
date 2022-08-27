@@ -8,6 +8,7 @@ _______________________________
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [1967. Number Of Strings That Appear As Substrings In Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [2011. Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
+- [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
 - [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/submissions/)
 - [557. Reverse Words In A StringIII](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [709. ToLowerCase](https://leetcode.com/problems/to-lower-case/)
