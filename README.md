@@ -6,6 +6,7 @@ _______________________________
 - [1480. Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
+- [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [1967. Number Of Strings That Appear As Substrings In Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [2011. Final Value Of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 - [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
