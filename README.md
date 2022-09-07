@@ -3,6 +3,7 @@ My LeetCode tasks solutions.
 _______________________________
 
 - [1108. Defanging An IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
 - [1480. Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
