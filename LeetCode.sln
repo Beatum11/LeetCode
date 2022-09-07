@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2011.FinalValueOfVariableAf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "771.JewelsAndStones", "771.JewelsAndStones\771.JewelsAndStones.csproj", "{CE0A5876-62AC-409C-84CF-386A79065634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2114.MaximumNumberOfWordsFoundInSentences", "2114.MaximumNumberOfWordsFoundInSentences\2114.MaximumNumberOfWordsFoundInSentences.csproj", "{C662988B-9A88-4EE6-BDE5-1DDB3E14B324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2114.MaximumNumberOfWordsFoundInSentences", "2114.MaximumNumberOfWordsFoundInSentences\2114.MaximumNumberOfWordsFoundInSentences.csproj", "{C662988B-9A88-4EE6-BDE5-1DDB3E14B324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "657.RobotReturnToOrigin", "657.RobotReturnToOrigin\657.RobotReturnToOrigin.csproj", "{3555DD87-BA77-46E1-937B-0793F4853C13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "657.RobotReturnToOrigin", "657.RobotReturnToOrigin\657.RobotReturnToOrigin.csproj", "{3555DD87-BA77-46E1-937B-0793F4853C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344.ReverseString", "344.ReverseString\344.ReverseString.csproj", "{497581DE-04D3-4A8F-A680-FD60B9036536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1929.ConcatenationOfArray", "1929.ConcatenationOfArray\1929.ConcatenationOfArray.csproj", "{CC54EED0-015B-4375-A3C1-2CC4BA789736}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{3555DD87-BA77-46E1-937B-0793F4853C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3555DD87-BA77-46E1-937B-0793F4853C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3555DD87-BA77-46E1-937B-0793F4853C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497581DE-04D3-4A8F-A680-FD60B9036536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497581DE-04D3-4A8F-A680-FD60B9036536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497581DE-04D3-4A8F-A680-FD60B9036536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497581DE-04D3-4A8F-A680-FD60B9036536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC54EED0-015B-4375-A3C1-2CC4BA789736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC54EED0-015B-4375-A3C1-2CC4BA789736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC54EED0-015B-4375-A3C1-2CC4BA789736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC54EED0-015B-4375-A3C1-2CC4BA789736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
