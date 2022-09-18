@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "344.ReverseString", "344.Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1929.ConcatenationOfArray", "1929.ConcatenationOfArray\1929.ConcatenationOfArray.csproj", "{CC54EED0-015B-4375-A3C1-2CC4BA789736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1374.GenerateAStringWithCharactersThatHaveOddCounts", "1374.GenerateAStringWithCharactersThatHaveOddCounts\1374.GenerateAStringWithCharactersThatHaveOddCounts.csproj", "{5DAC8374-56F9-4DDE-AB69-BEB9292B9E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1374.GenerateAStringWithCharactersThatHaveOddCounts", "1374.GenerateAStringWithCharactersThatHaveOddCounts\1374.GenerateAStringWithCharactersThatHaveOddCounts.csproj", "{5DAC8374-56F9-4DDE-AB69-BEB9292B9E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217.ContainsDuplicate", "217.ContainsDuplicate\217.ContainsDuplicate.csproj", "{6C3B068E-AF32-452E-9046-2A849DEC7048}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{5DAC8374-56F9-4DDE-AB69-BEB9292B9E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DAC8374-56F9-4DDE-AB69-BEB9292B9E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DAC8374-56F9-4DDE-AB69-BEB9292B9E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3B068E-AF32-452E-9046-2A849DEC7048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3B068E-AF32-452E-9046-2A849DEC7048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3B068E-AF32-452E-9046-2A849DEC7048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3B068E-AF32-452E-9046-2A849DEC7048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
