@@ -27,9 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1374.GenerateAStringWithCha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "217.ContainsDuplicate", "217.ContainsDuplicate\217.ContainsDuplicate.csproj", "{6C3B068E-AF32-452E-9046-2A849DEC7048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268.MissingNumber", "268.MissingNumber\268.MissingNumber.csproj", "{7D867DBD-2D7C-4EB0-BE3A-DC4A08681566}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "268.MissingNumber", "268.MissingNumber\268.MissingNumber.csproj", "{7D867DBD-2D7C-4EB0-BE3A-DC4A08681566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "383.RansomNote", "383.RansomNote\383.RansomNote.csproj", "{8BA93150-8151-4936-BB90-5C11D576AA49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "383.RansomNote", "383.RansomNote\383.RansomNote.csproj", "{8BA93150-8151-4936-BB90-5C11D576AA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "412.FizzBuzz", "412.FizzBuzz\412.FizzBuzz.csproj", "{5976AE51-DEE3-4BE6-AE2C-05416D55762F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1684.CountTheNumberOfConsistentStrings", "1684.CountTheNumberOfConsistentStrings\1684.CountTheNumberOfConsistentStrings.csproj", "{86FF50F0-B563-4969-8F3E-AE9369B8A808}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{8BA93150-8151-4936-BB90-5C11D576AA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA93150-8151-4936-BB90-5C11D576AA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA93150-8151-4936-BB90-5C11D576AA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5976AE51-DEE3-4BE6-AE2C-05416D55762F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5976AE51-DEE3-4BE6-AE2C-05416D55762F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5976AE51-DEE3-4BE6-AE2C-05416D55762F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5976AE51-DEE3-4BE6-AE2C-05416D55762F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FF50F0-B563-4969-8F3E-AE9369B8A808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FF50F0-B563-4969-8F3E-AE9369B8A808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FF50F0-B563-4969-8F3E-AE9369B8A808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FF50F0-B563-4969-8F3E-AE9369B8A808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
